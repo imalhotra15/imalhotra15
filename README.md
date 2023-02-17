@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ishaan Malhotra
+- 🔭 I'm currently working on data based lifetime modeling of an EV battery
 - 👀 I’m interested in electric vehicles, robotics, data science, machine learning, data visualization
 - 🌱 I’m currently learning machine learning, SLAM 
 - 💼 I have worked at Bosch Limited (EVs RND) and currently working at Daimler (Meredes-Benz EV Bus Data Analytics)
