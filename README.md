@@ -10,8 +10,7 @@ I'm currently working on simulation, perception, and planning of autonomous off-
 
 ### 🌱 Learning
 Currently expanding my knowledge in:
-- Machine Learning
-- SLAM
+- Deep Learning for perception and planning
 
 ### 💼 Professional Experience
 - **Intern at Danfoss**
