@@ -20,6 +20,7 @@ Currently expanding my knowledge in:
 ### 📫 Contact Me
 - **Email:** ishaan.malhotra15@gmail.com
 - **LinkedIn:** [ishaanmalhotra15](https://www.linkedin.com/in/ishaanmalhotra15/)
+- **Personal Website:** [Portfolio](https://imalhotra15.github.io/)
 <!---
 imalhotra15/imalhotra15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
